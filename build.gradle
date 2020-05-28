@@ -1,9 +1,9 @@
 plugins {
-    id 'org.jetbrains.intellij' version '0.3.1'
+    id 'org.jetbrains.intellij' version '0.3.3'
 }
 
 group = 'cc.duduhuo'
-version = '1.0.0'
+version = '1.0.1'
 def name = 'git-conflict'
 
 apply plugin: 'idea'
